@@ -1,0 +1,1 @@
+>Todos los registros ocupan la misma cantidad de bytes.

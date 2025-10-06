@@ -1,12 +1,12 @@
 ---
-title: "SH IesApp"
-source: "https://iesapp.iessantiagohernandez.com/student/enrolments/55884/horario"
+title: Horario
+source: https://iesapp.iessantiagohernandez.com/student/enrolments/55884/horario
 author:
 published:
 created: 2025-09-15
 description:
 tags:
-  - "clippings"
+  - clippings
 ---
 ## Grupo DAM2BL
 

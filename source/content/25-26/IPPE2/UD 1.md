@@ -1,0 +1,13 @@
+# Soft Skills
+- Conocimientos técnicos.
+- Idiomas.
+- Saber conducir.
+- Liderazgo.
+- Comunicación.
+- Trabajo en equipo.
+- Autonomía/Autodidacta.
+- Resolutiva.
+- Iniciativa.
+- Gestión y tareas.
+- Responsabilidad.
+- Interés y compromiso.
