@@ -1,7 +1,8 @@
 ---
-title: My GitHub Pages Notebook!
+title: Knowledge
 ---
 
 Hello world!
 
 Write some words here!
+
