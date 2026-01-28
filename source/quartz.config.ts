@@ -12,6 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
+    enableMobileSidebar: true,
     analytics: {
       provider: "plausible",
     },
